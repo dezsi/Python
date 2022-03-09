@@ -1,4 +1,4 @@
-1.)
+# 1.)
 def sum_treinumere_daca_sunt_egale(x, y, z):
     sum = x + y + z
     if x == y == z:
@@ -7,7 +7,7 @@ def sum_treinumere_daca_sunt_egale(x, y, z):
 
 print(sum_treinumere_daca_sunt_egale(1, 2, 3))
 
-2.)
+# 2.)
 lista =[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 
 def elimina_print_treia_numar(lista):
@@ -23,7 +23,7 @@ def elimina_print_treia_numar(lista):
 
 elimina_print_treia_numar(lista)
 
-3.)
+# 3.)
 
 import itertools as it
 
