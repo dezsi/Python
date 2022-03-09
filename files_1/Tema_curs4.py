@@ -87,3 +87,69 @@
 #   numbers = int(input())
 #   lst.append(numbers)
 # print("Sum:", sum(lst))
+
+
+# print("hello")
+
+# def your_function(x: str) ->str:
+#     return f"hello, {x}"
+#
+# name = input("Numele meu este: ")
+# print(your_function(name))
+
+# def my_function(a: str, b: str, c:str) -> (str, str, str):
+#     return a, b, b
+
+# print(my_function(a="1", c="2", b="3"))
+# print(my_function('1', '3', '2'))
+# print(my_function('1', c='2', b='3'))
+# print(my_function('3', a='1', c='2'))  NU
+# print(my_function('1', '3'))
+
+# def my_function():
+#     pass
+#
+# a =my_function()
+# print(a)
+# b = None
+# print(type(b))
+
+# def my_function(n):
+#     if n % 2 == 0:
+#         return true
+#     return false
+#
+# print(my_function(3))
+# nr = input("Introdu un nr: ")
+# if my_function(int(nr)) is True:
+#     print("nr divizibil ")
+# elif my_function((int(nr))) is False:
+#     print("nr nu este divizibil")
+
+# try:
+#     # bloc de expresii
+# except:
+#     # daca apare o exceptie si vrem sa afisam ceva
+
+
+# try:
+# #    valoare= int(input("prima cifra din cnp: "))
+#     #impartire = 1/valoare
+#     lista = [1]
+#     #valoare = lista [0.5]
+#     print('sunt in try')
+# except (ValueError, Attributeerror, valueError, ZerodivisionError):
+# #     print("tip de eroare")
+# else:
+#     print('nu exista exceptie')
+# finally:
+#     print("se executa oricum")
+# print("am iesit din try-except")
+# # except zerodivisioError:
+# #     print("eroare la impartire")
+# #except Valuerror:
+# # except Exception as e: !!!
+# #    print("exceptie la impartire", e)
+
+
+
